@@ -1,0 +1,9 @@
+pip freeze -> lista os pacotes instalados na maquina
+pip install flask -> instalar o framework
+
+Criando uma rota para links
+<a href="/crud">Acessar o Painel de Controle</a>
+
+__name__ -> padrão default
+
+debug=True -> Mostra erro detalhado na pagina
