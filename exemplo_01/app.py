@@ -5,7 +5,7 @@ app = Flask(__name__, template_folder="views", static_folder="views/static")
 @app.route("/")
 def index():
     return render_template("index.html")
-1
+
 @app.route("/crud")
 def crud():
     return render_template("crud.html")
